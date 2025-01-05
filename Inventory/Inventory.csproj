@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ApplicationIcon>chest.ico</ApplicationIcon>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <!-- <SelfContained>true</SelfContained> -->
+        <PublishSingleFile>true</PublishSingleFile>
+        <Title>小小软件物品栏</Title>
+        <Authors>Xphost</Authors>
+        <Description>一个仿MC箱子的一个管理软件的小工具~</Description>
+        <Copyright>Copyright © Xphost 2025</Copyright>
+        <PackageProjectUrl>https://github.com/xphost008/Inventory</PackageProjectUrl>
+        <PackageLicenseUrl>MIT</PackageLicenseUrl>
+        <PackageIcon>chest.ico</PackageIcon>
+        <RepositoryUrl>https://github.com/xphost008/Inventory</RepositoryUrl>
+        <RepositoryType>Public</RepositoryType>
+        <PackageReleaseNotes>Latest 1.0~</PackageReleaseNotes>
+        <Product>Inventory</Product>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+        <NeutralLanguage>zh-Hans</NeutralLanguage>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="Microsoft.VisualBasic" />
+    </ItemGroup>
+</Project>

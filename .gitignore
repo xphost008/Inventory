@@ -1,0 +1,4 @@
+.idea
+*.user
+Inventory/bin/
+Inventory/obj/
