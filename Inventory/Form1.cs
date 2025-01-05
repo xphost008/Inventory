@@ -1055,7 +1055,6 @@ public partial class Form1 : Form
         else
         {
             _root = new JsonObject();
-            _root.Add("", new JsonArray());
             File.WriteAllText(Application.StartupPath + @"\Soft.json", JsonSerializer.Serialize(_root, new JsonSerializerOptions
             {
                 WriteIndented = true, 

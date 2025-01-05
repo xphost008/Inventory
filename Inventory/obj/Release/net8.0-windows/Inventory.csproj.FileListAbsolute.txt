@@ -1,0 +1,17 @@
+D:\Workspace\DotnetWork\Inventory\Inventory\bin\Release\net8.0-windows\Inventory.exe
+D:\Workspace\DotnetWork\Inventory\Inventory\bin\Release\net8.0-windows\Inventory.deps.json
+D:\Workspace\DotnetWork\Inventory\Inventory\bin\Release\net8.0-windows\Inventory.runtimeconfig.json
+D:\Workspace\DotnetWork\Inventory\Inventory\bin\Release\net8.0-windows\Inventory.dll
+D:\Workspace\DotnetWork\Inventory\Inventory\bin\Release\net8.0-windows\Inventory.pdb
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\Inventory.SomeConst.resources
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\Inventory.csproj.GenerateResource.cache
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\Inventory.AssemblyInfoInputs.cache
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\Inventory.AssemblyInfo.cs
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\Inventory.csproj.CoreCompileInputs.cache
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\Inventory.dll
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\refint\Inventory.dll
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\Inventory.pdb
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\Inventory.genruntimeconfig.cache
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\ref\Inventory.dll
+D:\Workspace\DotnetWork\Inventory\Inventory\obj\Release\net8.0-windows\Inventory.sourcelink.json

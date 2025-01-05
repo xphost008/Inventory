@@ -8,7 +8,7 @@
         <UseWindowsForms>true</UseWindowsForms>
         <ImplicitUsings>enable</ImplicitUsings>
         <!-- <SelfContained>true</SelfContained> -->
-        <PublishSingleFile>true</PublishSingleFile>
+        <!-- <PublishSingleFile>true</PublishSingleFile> -->
         <Title>小小软件物品栏</Title>
         <Authors>Xphost</Authors>
         <Description>一个仿MC箱子的一个管理软件的小工具~</Description>

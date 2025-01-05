@@ -1,0 +1,5 @@
+D:\Workspace\DotnetWork\Inventory\Inventory\bin\Release\net8.0-windows\publish\Inventory.exe
+D:\Workspace\DotnetWork\Inventory\Inventory\bin\Release\net8.0-windows\publish\Inventory.dll
+D:\Workspace\DotnetWork\Inventory\Inventory\bin\Release\net8.0-windows\publish\Inventory.deps.json
+D:\Workspace\DotnetWork\Inventory\Inventory\bin\Release\net8.0-windows\publish\Inventory.runtimeconfig.json
+D:\Workspace\DotnetWork\Inventory\Inventory\bin\Release\net8.0-windows\publish\Inventory.pdb
